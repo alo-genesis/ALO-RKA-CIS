@@ -6,7 +6,7 @@
 
 -----
 
-> **⚠️ Status: [Design Proposal / Draft v5.3]**
+> **⚠️ Status: [Design Proposal / Draft v5.4]**
 > 
 > 本文書は設計思想・提案書（Design Proposal）の段階です。
 > 実装コードおよび定量的検証は現在未完了です。
